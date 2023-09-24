@@ -1,0 +1,16 @@
+
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "<h1>Finance App</h1>",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "flutter run"
+  },
+  "author": "",
+  "license": "ISC"
+}
